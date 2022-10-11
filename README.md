@@ -1,1 +1,2 @@
-# Leave-Management-System
+# Leave Management System
+## Technologies used ASP.NET
